@@ -1,0 +1,283 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7605673,
+               "lng" : -84.38773449999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.76212532989271,
+                  "lng" : -84.38639192010727
+               },
+               "southwest" : {
+                  "lat" : 33.75942567010727,
+                  "lng" : -84.38909157989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ray's In the City",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104111246635874032234\"\u003eZAGAT\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZf5L4q2w9UcXCEoln3eSo4Celzci2oG3UxRf01r488yzUqZx3rpiUAl2ma27sKTj_LtVKvEQywik64tceeF0s9dVU20sUovyJMXNhZGdSKwnElimr8kOeEbFiYP4chaMMn_irdc6Dfne9rbkZvh-gK18J3L1NkQ4jS9aav1t0eU7m",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJww40UHgE9YgR66AJn9YJKuE",
+         "plus_code" : {
+            "compound_code" : "QJ66+6W Atlanta, Georgia",
+            "global_code" : "865QQJ66+6W"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJww40UHgE9YgR66AJn9YJKuE",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3033,
+         "vicinity" : "240 Peachtree St, Atlanta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7520852,
+               "lng" : -84.39387979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.75343502989272,
+                  "lng" : -84.39252997010728
+               },
+               "southwest" : {
+                  "lat" : 33.75073537010727,
+                  "lng" : -84.39522962989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shrimp Boat Fish House, LLC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJW5ASNIID9YgRfEWSMzU7EVw",
+         "plus_code" : {
+            "compound_code" : "QJ24+RC Atlanta, Georgia",
+            "global_code" : "865QQJ24+RC"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJW5ASNIID9YgRfEWSMzU7EVw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Forsyth St SW, Atlanta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7496874,
+               "lng" : -84.3993291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.75093917989273,
+                  "lng" : -84.39796047010726
+               },
+               "southwest" : {
+                  "lat" : 33.74823952010728,
+                  "lng" : -84.40066012989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Old Lady Gang Southern Cuisine",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112845563118559811331\"\u003eHenry Conley\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDq8gaP1U68FcyP8u-MCVRr-TXlpy1NSIc5PvVrqfWB6uZeV1mk47XjbJ6R2HFNW3rEQbT2PBhrE7UCVk-A1rb8FhPqT3AUCGqIFauLKXm_DG3R75ZDrjGeIacKzZz_ORMixK3rTPrRW8PtJWd5pNU5pvFQyCDoLd0FHVLCrotCXVab",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJR5IXsXkD9YgRKZyyv8fCIsI",
+         "plus_code" : {
+            "compound_code" : "PJX2+V7 Atlanta, Georgia",
+            "global_code" : "865QPJX2+V7"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJR5IXsXkD9YgRKZyyv8fCIsI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8169,
+         "vicinity" : "177 Peters St SW, Atlanta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7540215,
+               "lng" : -84.379914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.75523942989273,
+                  "lng" : -84.37864717010727
+               },
+               "southwest" : {
+                  "lat" : 33.75253977010728,
+                  "lng" : -84.38134682989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Vieux Carre Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111858138307081509887\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECeTTYmNr85gB-aU0nU2ouCt9IldtNioF-gUJVOti0SL_7wSLDxYKAkThkiI4hcVqGq8ePpKLhFEV_G0iIN__G8gA0V-5f_iCdhAkm0gpZ2QnAOx6ijXsjPNWR63m4RDvbauxPo0dgVSvetWtQi2dMljENk5DjM0dUVJXJuBMkVhkkB",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJT0H7rmoD9YgR7CfvmDVF1ms",
+         "plus_code" : {
+            "compound_code" : "QJ3C+J2 Atlanta, Georgia",
+            "global_code" : "865QQJ3C+J2"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJT0H7rmoD9YgR7CfvmDVF1ms",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "209 Edgewood Ave SE, Atlanta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7598163,
+               "lng" : -84.38744990000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.76110497989271,
+                  "lng" : -84.38616562010726
+               },
+               "southwest" : {
+                  "lat" : 33.75840532010727,
+                  "lng" : -84.38886527989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Hard Rock Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113359488662814657667\"\u003eRobert Cassidy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAYnKjlCCHU1OC5X4BHTI0KKPgEyBQOnA06BvBdg1-5-yh5hqd0hdNsFUmPsLoQGwd6dLLcHbHM4EUYZXROyasmS0PF1YLFRzYz40NPsIIgtc1rR1LX1wLtvRR4goS2WxYL4ZInMJfFk9oUUyx9_xXrsdCOhP9JvbVV3lmJTrW2MvYv",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJT9fzQXgE9YgRh3qCiYyrNJI",
+         "plus_code" : {
+            "compound_code" : "QJ57+W2 Atlanta, Georgia",
+            "global_code" : "865QQJ57+W2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJT9fzQXgE9YgRh3qCiYyrNJI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5102,
+         "vicinity" : "215 Peachtree St NE, Atlanta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7424887,
+               "lng" : -84.4079028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.74373012989272,
+                  "lng" : -84.40645662010728
+               },
+               "southwest" : {
+                  "lat" : 33.74103047010728,
+                  "lng" : -84.40915627989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Trederick's Seafood & Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2929,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111598252288323696556\"\u003eone66soul\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB0QrkRn_9jR7e7VsSzOrOe6qLN2ZstYI77RsVQsj4BA5eMH5D7IswN4YKqCXSv6GF3E8ynCK0RiTcVpFWwW2kL5OGuFBlvSqWKarTYLpKJVosaAFnIspgAG56wKGelwy8AtcZ2PhTmWpPous-adQb1oU_N_mY_MJ4vwdKPo-AUlqEU",
+               "width" : 3906
+            }
+         ],
+         "place_id" : "ChIJj5vJw10D9YgRKYbnKCgO3Pk",
+         "plus_code" : {
+            "compound_code" : "PHRR+XR Atlanta, Georgia",
+            "global_code" : "865QPHRR+XR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJj5vJw10D9YgRKYbnKCgO3Pk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 276,
+         "vicinity" : "609 Whitehall St SW, Atlanta"
+      }
+   ],
+   "status" : "OK"
+}
