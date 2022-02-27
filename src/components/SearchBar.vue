@@ -26,6 +26,7 @@ export default {
         maxprice: "",
         key: "AIzaSyD1tp_twpGmuQ0B6yGmDGEazS9ZQmwK-Ko",
       },
+      SearchString: "",
     };
   },
   methods: {
@@ -44,7 +45,14 @@ export default {
             const r = response.data.results[0].geometry.location;
             this.params.location = r.lat + "," + r.lng;
             console.log(r.lat, r.lng);
-            this.go = !this.go;
+            var s = "";
+            for (var key in this.params) {
+              if (s != "") {
+                s += "&";
+              }
+              s += key + "=" + this.params[key];
+            }
+            this.SearchString = s;
           })
           .catch((error) => {
             this.errorMessage = error.message;
@@ -182,14 +190,14 @@ export default {
 
       <div class="col-1">
         <button class="btn btn-primary" @click="getGeolocation()">
-          Submit
+          Find
         </button>
       </div>
     </div>
   </div>
 
   <div v-if="params.location" class="col mt-3">
-    <Places :params-obj="params" :go-boolean="go"></Places>
+    <Places :search-string="SearchString"></Places>
   </div>
 </template>
 

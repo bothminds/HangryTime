@@ -6,43 +6,21 @@ export default {
   components: { GooglePlace, GoogleMaps },
   name: "MainContent",
   props: {
-    paramsObj: Object,
-    goBoolean: Boolean,
+    searchString: String,
   },
   watch: {
-    goBoolean(val) {
-      this.getPlaces();
-      console.log("go:", val);
-      // this.$emit("customChange", false);
+    searchString(val) {
+      this.getPlaces(val);
     },
   },
   data() {
     return {
       items: null,
-      api_params: {
-        price: 1,
-        name: "",
-        address: "",
-        state: "",
-        city: "",
-        zip: 30307,
-        country: "",
-        page: 1,
-        per_page: 20,
-      },
       api_url: "https://maps.googleapis.com/maps/api/place/nearbysearch/json?",
     };
   },
   methods: {
-    getPlaces() {
-      var s = "";
-      for (var key in this.paramsObj) {
-        if (s != "") {
-          s += "&";
-        }
-        s += key + "=" + this.paramsObj[key];
-      }
-      console.log("further");
+    getPlaces(s) {
       const api = this.api_url;
       axios
         .get(api + s)
