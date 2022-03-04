@@ -12,7 +12,12 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### CORS
+
+```sh
+download and install 
+Access Control-Allow-Origin - Unblock to avoid CORS errors.
+```
 
 
 
