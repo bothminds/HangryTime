@@ -24,7 +24,7 @@ export default {
         radius: "9000",
         type: "",
         maxprice: "",
-        key: "AIzaSyD1tp_twpGmuQ0B6yGmDGEazS9ZQmwK-Ko",
+        key: "API_KEY_GOES_HERE",
       },
       SearchString: "",
     };
